@@ -17,17 +17,19 @@ let basketballteams = {
     'players': 16 ,
     'Name 1': 'fhdfgdf',
     'Name 2': 'sfdfs'
+
+ },
+ 'new york knicks':{
+    'players': 18,
+    'Name 1':'Barrett, RJ',
+    'Name 2': 'Burks, Alec'
  },
  'unknown':{
     'players': 'unknown',
     'Name 1': 'unknown',
     'Name 2': 'unknown'
- },
- 'new york knicks':{
-     'players': 18,
-     'Name 1':'Barrett, RJ',
-     'Name 2': 'Burks, Alec'
  }
+
 }
 app.get('/',(request,response) =>{
     response.sendFile(__dirname + '/index.html')
