@@ -23,7 +23,7 @@ let basketballteams = {
     'Name 1': 'unknown',
     'Name 2': 'unknown'
  },
- 'New York Knicks':{
+ 'new york knicks':{
      'players': 18,
      'Name 1':'Barrett, RJ',
      'Name 2': 'Burks, Alec'
