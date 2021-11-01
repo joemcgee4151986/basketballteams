@@ -22,6 +22,11 @@ let basketballteams = {
     'players': 'unknown',
     'Name 1': 'unknown',
     'Name 2': 'unknown'
+ },
+ 'New York Knicks':{
+     'players': 18,
+     'Name 1':'Barrett, RJ',
+     'Name 2': 'Burks, Alec'
  }
 }
 app.get('/',(request,response) =>{
