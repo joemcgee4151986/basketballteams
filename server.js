@@ -38,11 +38,8 @@ let basketballteams = {
     'Name 1':'Barrett, RJ',
     'Name 2': 'Burks, Alec'
  },
- 'unknown':{
-    'players': 'unknown',
-    'Name 1': 'unknown',
-    'Name 2': 'unknown'
- }
+ 'unknown':'not a team'
+ 
 
 }
 app.get('/',(request,response) =>{
