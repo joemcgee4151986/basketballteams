@@ -9,9 +9,23 @@ app.use(cors())
 let basketballteams = {
  'phoenix suns':{
 
-    'players': 15,
-    'Name 1': 'fdsfsd',
-    'Name 2': 'sfdfs'
+    'players': 16,
+    'Name 1': 'Devin Booker',
+    'Name 2': 'Mikal Bridges',
+    'Name 3': 'Deandre Ayton',
+    'Name 4': 'Chris Paul',
+    'Name 5': 'JaVale McGee',
+    'Name 6': 'Mikal Bridges',
+    'Name 7': 'Jae Crowder',
+    'Name 8': 'Cameron Johnson',
+    'Name 9': 'Landry Shamet',
+    'Name 10': 'Abdel Nader',
+    'Name 11': 'Elfrid Payton',
+    'Name 12': 'Cameron Payne',
+    'Name 13': 'Jalen Smith',
+    'Name 14': 'Frank Kaminsky',
+    'Name 15': 'Dario Šarić',
+    'Name 16': 'Ishmail Wainright'
  },
  'golden state warriors':{
     'players': 16 ,
