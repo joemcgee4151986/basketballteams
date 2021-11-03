@@ -28,16 +28,66 @@ let basketballteams = {
     'Name 16': 'Ishmail Wainright'
  },
  'golden state warriors':{
-    'players': 16 ,
-    'Name 1': 'fhdfgdf',
-    'Name 2': 'sfdfs'
-
+    'players': 17 ,
+    'Player  1': 'Nemanja Bjelica',
+    'Player  2': 'Chris Chiozza',
+    'Player  3': 'Stephen Curry',
+    'Player  4': 'Jeff Dowtin',
+    'Player  5': 'Draymond Green',
+    'Player  6': 'Andre Iguodala',
+    'Player  7': 'Jonathan Kuminga ',
+    'Player  8': 'Damion Lee',
+    'Player  9': 'Kevon Looney ',
+    'Player  10': 'Moses Moody',
+    'Player  11': 'Gary Payton II ',
+    'Player  12': 'Jordan Poole',
+    'Player  13': 'Otto Porter Jr. ',
+    'Player  14': 'Klay Thompson ',
+    'Player  15': 'Juan Toscano-Anderson',
+    'Player  16': 'Andrew Wiggins',
+    'Player  17': 'James Wiseman'
  },
  'new york knicks':{
     'players': 18,
-    'Name 1':'Barrett, RJ',
-    'Name 2': 'Burks, Alec'
+    'Player 1':'Barrett, RJ',
+    'Player 2': 'Burks, Alec',
+    'Player 3': 'Evan Fournier',
+    'Player 4': 'Taj Gibson',
+    'Player 5': 'Quentin Grimes',
+    'Player 6': 'Kevin Knox II',
+    'Player 7': 'Miles McBride',
+    'Player 8': 'Nerlens Noel',
+    'Player 9': 'Immanuel Quickley',
+    'Player 10': 'Julius Randle',
+    'Player 11': 'Mitchell Robinson',
+    'Player 12': 'Derrick Rose',
+    'Player 13': 'Luka Samanic',
+    'Player 14': 'Wayne Selden',
+    'Player 15': 'Jericho Sims',
+    'Player 16': 'Obi Toppin',
+    'player 17':'Luca Vildoza',
+    'player 18': 'Kemba Walker'
  },
+ 'chicago bulls':{
+     'players': 17,
+     'Player 1': 'Lonzo Ball',
+     'Player 2': 'Tony Bradley',
+     'Player 3': 'Troy Brown Jr.',
+     'Player 4': 'Alex Caruso',
+     'Player 5': 'Tyler Cook',
+     'Player 6': 'DeMar DeRozan',
+     'Player 7': 'Ayo Dosunmu',
+     'Player 8': 'Devon Dotson',
+     'Player 9': 'Javonte Green',
+     'Player 10': 'Alize Johnson',
+     'Player 11': 'Derrick Jones Jr.',
+     'Player 12': 'Zach LaVine',
+     'Player 13': 'Marko Simonovic',
+     'Player 14': 'Matt Thomas',
+     'Player 15': 'Nikola Vucevic',
+     'Player 16': 'Coby White',
+     'Player 17': 'Patrick Williams'
+},
  'unknown':'not a team'
  
 
